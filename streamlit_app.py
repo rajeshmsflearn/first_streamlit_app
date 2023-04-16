@@ -4,4 +4,4 @@ streamlit.header('🥗 🥣 Breakfast Menu')
 streamlit.text('🐔 Dosa, Vada, Idly, Sambar')
 streamlit.text('🍞 Poori, Sagu, Paneer Butter masala')
 streamlit.text('🥑 Hard-Boiled Free-Range Egg')
-   
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
