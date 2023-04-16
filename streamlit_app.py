@@ -1,4 +1,5 @@
 import streamlit
+impport pandas
 streamlit.title('I am healthy and wealthy. What a great feeling !!!. Kudos to Baru for providing me healthy food daily :)')
 streamlit.header('🥗 🥣 Breakfast Menu')
 streamlit.text('🐔 Dosa, Vada, Idly, Sambar')
